@@ -2,6 +2,8 @@
 content_type: page
 description: This syllabus section provides a course overview and information on meeting
   times, the course project, and requirements.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -20,7 +22,7 @@ This workshop provides an introduction to urban environmental design and explore
 
 Students will work in a real neighborhood with real people on a real project, putting theory into practice and reflecting on insights gained in the process. We will study environmental and community history and devise designs for vacant land near a middle school in West Philadelphia within the context of planning for the larger community and watershed.
 
-The course is associated with the West Philadelphia Landscape Project (WPLP), a program that has integrated research, teaching, and community service since 1987. The {{% resource_link "4a66e105-7401-457d-bcb2-742f21a5e9cd" "WPLP" %}} website has received millions of hits since 1996. The new WPLP website will be the principle locus of our collaboration with the school and community.
+The course is associated with the West Philadelphia Landscape Project (WPLP), a program that has integrated research, teaching, and community service since 1987. The [WPLP](http://web.mit.edu/wplp/) website has received millions of hits since 1996. The new WPLP website will be the principle locus of our collaboration with the school and community.
 
 Place
 -----
@@ -39,7 +41,7 @@ Develop a new, community-based, environmental curriculum for Sulzberger Middle S
 
 There will be one field trip to Philadelphia during the semester.
 
-For background on the project see the {{% resource_link "4a66e105-7401-457d-bcb2-742f21a5e9cd" "WPLP" %}} website, especially the section on {{% resource_link "722df5bf-5ad3-4d76-bb2f-9d3b0baf3575" "Sulzberger Middle School" %}} and summary of the {{% resource_link "2830c0fb-37b1-465b-b508-6738ace08414" "Mill Creek Project" %}}.
+For background on the project see the [WPLP](http://web.mit.edu/wplp/) website, especially the section on [Sulzberger Middle School](http://web.mit.edu/wplp/sms/) and summary of the [Mill Creek Project](http://web.mit.edu/wplp/sms/millc.htm).
 
 A knowledge of web-authoring and geographic information systems (GIS) is not a prerequisite this year, but is highly desirable.
 

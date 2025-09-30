@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: Student work.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -12,4 +14,4 @@ Each student came up with solutions to the issues surrounding the Mill Creek are
 
 Searching Out the Lines - Christine Gaspar ({{% resource_link f4aeab2b-89c8-d17d-942e-b9ce35838b3e "PDF" %}})
 
-{{% resource_link "8795130a-5de8-4ddd-a3db-f35fdd3b41ae" "Revealing and Creating" %}} - Tracy Taylor
+[Revealing and Creating](http://architecture.mit.edu/class/place/projects01/taylort/intention.html) - Tracy Taylor
